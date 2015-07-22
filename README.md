@@ -1,6 +1,6 @@
 # ReservationV2
 
-Detailed documentation can be found in proj2-document-cp.docx. 
+Detailed documentation can be found in proj2-document-cp.docx. Wireframes from application done in Balsamiq Mockups. 
 
 Detailed project requirements can be in Prog2-sp15.doc.
 
